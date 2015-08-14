@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\nazotoki\Assets\Scripts\idou.cs">
+    <Files>
+      <File FileName="..\nazotoki\Assets\Scripts\idou.cs" Line="20" Column="40" />
+      <File FileName="..\nazotoki\Assets\Scripts\CameraControl.cs" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,9 @@
+Temp/
+Library/
+obj/
+*.csproj
+*.sln
+*.zip
+*.suo
+*.pdb
+*.cache
